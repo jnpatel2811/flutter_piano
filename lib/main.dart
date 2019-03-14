@@ -10,8 +10,6 @@ class MyApp extends StatefulWidget {
   _MyAppState createState() {
     return new _MyAppState();
   }
-
-  jay
 }
 
 class _MyAppState extends State<MyApp> {
